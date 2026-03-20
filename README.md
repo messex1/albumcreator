@@ -1,4 +1,4 @@
-# Assignment 1
+# CPSC1520 Assignment 1
 
 Read the pdf attached.
 
